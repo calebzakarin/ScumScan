@@ -5,7 +5,7 @@ import csv
 r = csv.reader(open("ScumScan.csv"))
 ScumWorkingData = [l for l in r]
 
-wr = csv.writer(open('ScumScanOutput.csv','wb'))
+#wr = csv.writer(open('ScumScanOutput.csv','wb'))
 
 def display(imgPath, x_min, y_min, x_max, y_max):
 
@@ -71,7 +71,7 @@ while doContinue:
 		doesRecognize = raw_input("do you recognize this object? (y/n) ")
 
 
-		if doesRecognize == "y":
+		if doesRecognize != "n":
 			databaseNumber = input("Can you identify the entry on the key? (1-?, or n)")
 			if databaseNumber != "n":
 				identity = identify(databaseNumber)
@@ -101,5 +101,7 @@ while doContinue:
 			doContinue = False
 
 	counter = counter + 1
+
+	wr = csv.writer(open('ScumScanOutput.csv','wb'))
+	wr.writerows(ScumWorkingData)
 print "Thank you! You saw ", counter, " rows!"
-wr.writerows(ScumWorkingData)
