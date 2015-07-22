@@ -71,7 +71,7 @@ while doContinue:
 		doesRecognize = raw_input("do you recognize this object? (y/n) ")
 
 
-		if doesRecognize == "y":
+		if doesRecognize != "n":
 			databaseNumber = input("Can you identify the entry on the key? (1-?, or n)")
 			if databaseNumber != "n":
 				identity = identify(databaseNumber)
