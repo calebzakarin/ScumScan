@@ -5,7 +5,7 @@ import csv
 r = csv.reader(open("ScumScan.csv"))
 ScumWorkingData = [l for l in r]
 
-wr = csv.writer(open('ScumScanOutput.csv','wb'))
+#wr = csv.writer(open('ScumScanOutput.csv','wb'))
 
 def display(imgPath, x_min, y_min, x_max, y_max):
 
@@ -101,5 +101,7 @@ while doContinue:
 			doContinue = False
 
 	counter = counter + 1
+
+	wr = csv.writer(open('ScumScanOutput.csv','wb'))
+	wr.writerows(ScumWorkingData)
 print "Thank you! You saw ", counter, " rows!"
-wr.writerows(ScumWorkingData)
