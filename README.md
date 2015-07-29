@@ -46,13 +46,13 @@ storageType = ?f? for formalin, ?e? for ethanal.
 Completed:
 
 -Site 1, 17, Jul, 2014, sus1a
-	10x
+	(10x
 	20x
-	40x
+	40x),
 -Site 2, 17, Jul, 2014, sus1a
-	10x
+	(10x
 	20x
-	40x
+	40x),
 -Site 2, 17, Jul, 2014, sus1b
 	10x
 	20x
