@@ -17,25 +17,25 @@ columns
 	7: Los Angeles River Greenway Trail, Los Angeles, CA 90039, USA (34.1080075,-118.2540206)
 	8: 1721 North Broadway, Los Angeles, CA 90031, USA (34.0719847,-118.2248829)
    
-  measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
+  -measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
   sus# and col# are followed by the letter (a, b, or c) denoting which repeated version of the sample was tested. 
 ex. sus1a, sus1b, sus1c, sus2a, ect...
-    storageType = e or f (ethanol or formalin)
-    year = YYYY
-    month = MM
-    day = DD
-    magnification = 10x, 20x, 40x
-    x_min= the minimum x-value of the selected area
-    x_max = the maximum x-value of the selected area
-    y_min= the minimum y-value of the selected area
-    y_max= the maximum y-value of the selected area
-    n = number of objects in the selected area (usually 1)
-    order =
-    phylum =
-    genus = [NA is acceptable]
-    spp = [NA is acceptable]
-    url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
-    idNum = 0-18 (O: no id)
+    -storageType = e or f (ethanol or formalin)
+    -year = YYYY
+    -month = MM
+    -day = DD
+    -magnification = 10x, 20x, 40x
+    -x_min= the minimum x-value of the selected area
+    -x_max = the maximum x-value of the selected area
+    -y_min= the minimum y-value of the selected area
+    -y_max= the maximum y-value of the selected area
+    -n = number of objects in the selected area (usually 1)
+    -order =
+    -phylum =
+    -genus = [NA is acceptable]
+    -spp = [NA is acceptable]
+    -url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
+    -idNum = 0-18 (O: no id)
 
 site# = single integer 1-8 denoting which site the sample was taken from.
 storageType = ?f? for formalin, ?e? for ethanal.
