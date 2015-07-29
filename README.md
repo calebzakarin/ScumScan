@@ -90,3 +90,4 @@ Completed:
 
 to re-scan: 2_f_2a_17_jul_2014
 
+Images of scanned samples can be found on flickr at the url:
