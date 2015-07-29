@@ -6,8 +6,8 @@ The data collected in ScumScan.csv
 
 columns
 
-    id = unique identifier for each observation
-    siteID = 
+- id = unique identifier for each observation
+- siteID = 
 	1: 6300 Lake Balboa Hiking Trail, Lake Balboa, CA 91406, USA (34.1786177,-118.4977081)
 	2:  4101-4127 Laurel Canyon Boulevard, Studio City, CA 91604, USA (34.1457431,-118.3960976)
 	3: 4030-4074 Colfax Avenue, Studio City, CA 91604, USA (34.1423249,-118.387336)
