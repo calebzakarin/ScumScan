@@ -31,12 +31,12 @@ ex. sus1a, sus1b, sus1c, sus2a, ect...
     y_min= the minimum y-value of the selected area
     y_max= the maximum y-value of the selected area
     n = number of objects in the selected area (usually 1)
-    order=
+    order =
     phylum =
     genus = [NA is acceptable]
     spp = [NA is acceptable]
-   
-url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
+    url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
+    idNum = 0-18 (O: no id)
 
 site# = single integer 1-8 denoting which site the sample was taken from.
 storageType = ?f? for formalin, ?e? for ethanal.
