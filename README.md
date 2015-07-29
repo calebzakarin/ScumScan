@@ -8,13 +8,13 @@ columns
 
 - id = unique identifier for each observation
 - siteID = 
-	1: 6300 Lake Balboa Hiking Trail, Lake Balboa, CA 91406, USA (34.1786177,-118.4977081)
-	2:  4101-4127 Laurel Canyon Boulevard, Studio City, CA 91604, USA (34.1457431,-118.3960976)
-	3: 4030-4074 Colfax Avenue, Studio City, CA 91604, USA (34.1423249,-118.387336)
-	4: 48 Riverside Drive, Los Angeles, CA 90027, USA (34.1562449,-118.294331)
-	5: Los Angeles River Bike Path, Glendale, CA 91201, USA (34.1558848,-118.2882568)
-	6: Los Angeles River Bike Path, Los Angeles, CA 90039, USA (34.1215869,-118.2706885)
-	7: Los Angeles River Greenway Trail, Los Angeles, CA 90039, USA (34.1080075,-118.2540206)
+	..1. 6300 Lake Balboa Hiking Trail, Lake Balboa, CA 91406, USA (34.1786177,-118.4977081)
+	- 4101-4127 Laurel Canyon Boulevard, Studio City, CA 91604, USA (34.1457431,-118.3960976)
+	- 4030-4074 Colfax Avenue, Studio City, CA 91604, USA (34.1423249,-118.387336)
+	- 48 Riverside Drive, Los Angeles, CA 90027, USA (34.1562449,-118.294331)
+	- Los Angeles River Bike Path, Glendale, CA 91201, USA (34.1558848,-118.2882568)
+	- Los Angeles River Bike Path, Los Angeles, CA 90039, USA (34.1215869,-118.2706885)
+	- Los Angeles River Greenway Trail, Los Angeles, CA 90039, USA (34.1080075,-118.2540206)
 	8: 1721 North Broadway, Los Angeles, CA 90031, USA (34.0719847,-118.2248829)
    
 - measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
