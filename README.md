@@ -20,22 +20,22 @@ columns
   -measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
   sus# and col# are followed by the letter (a, b, or c) denoting which repeated version of the sample was tested. 
 ex. sus1a, sus1b, sus1c, sus2a, ect...
-    -storageType = e or f (ethanol or formalin)
-    -year = YYYY
-    -month = MM
-    -day = DD
-    -magnification = 10x, 20x, 40x
-    -x_min= the minimum x-value of the selected area
-    -x_max = the maximum x-value of the selected area
-    -y_min= the minimum y-value of the selected area
-    -y_max= the maximum y-value of the selected area
-    -n = number of objects in the selected area (usually 1)
-    -order =
-    -phylum =
-    -genus = [NA is acceptable]
-    -spp = [NA is acceptable]
-    -url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
-    -idNum = 0-18 (O: no id)
+    1: storageType = e or f (ethanol or formalin)
+    2: year = YYYY
+    3: month = MM
+    4: day = DD
+    5: magnification = 10x, 20x, 40x
+    6: x_min= the minimum x-value of the selected area
+    7: x_max = the maximum x-value of the selected area
+    8: y_min= the minimum y-value of the selected area
+    9: y_max= the maximum y-value of the selected area
+    10: n = number of objects in the selected area (usually 1)
+    11: order =
+    12: phylum =
+    13: genus = [NA is acceptable]
+    14: spp = [NA is acceptable]
+    15: url = /AlgaeFoley/YY_MM_DD_site#/measurementType/site#_storageType_sampleIteration_DD_MM_YYYY/magnification/##.bmp
+    16: idNum = 0-18 (O: no id)
 
 site# = single integer 1-8 denoting which site the sample was taken from.
 storageType = ?f? for formalin, ?e? for ethanal.
