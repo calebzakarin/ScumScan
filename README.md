@@ -16,6 +16,7 @@ columns
 	6: Los Angeles River Bike Path, Los Angeles, CA 90039, USA (34.1215869,-118.2706885)
 	7: Los Angeles River Greenway Trail, Los Angeles, CA 90039, USA (34.1080075,-118.2540206)
 	8: 1721 North Broadway, Los Angeles, CA 90031, USA (34.0719847,-118.2248829)
+   
     measurement Type = 
 sus1 and sus2 for suspended solids of type 1 and 2, 
 col3 for colonial organism (listed as type 3 on the viles)
