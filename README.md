@@ -17,8 +17,8 @@ columns
 	7: Los Angeles River Greenway Trail, Los Angeles, CA 90039, USA (34.1080075,-118.2540206)
 	8: 1721 North Broadway, Los Angeles, CA 90031, USA (34.0719847,-118.2248829)
    
-  -measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
-  sus# and col# are followed by the letter (a, b, or c) denoting which repeated version of the sample was tested. 
+- measurement Type = sus1 and sus2 for suspended solids of type 1 and 2, col3 for colonial organism (listed as type 3 on the viles)
+  - sus# and col# are followed by the letter (a, b, or c) denoting which repeated version of the sample was tested. 
 ex. sus1a, sus1b, sus1c, sus2a, ect...
 - storageType = e or f (ethanol or formalin)
 - year = YYYY
@@ -45,46 +45,46 @@ storageType = ?f? for formalin, ?e? for ethanal.
 
 Completed:
 
--Site 1, 17, Jul, 2014, sus1a
-	(10x
-	20x
-	40x),
--Site 2, 17, Jul, 2014, sus1a
-	(10x
-	20x
-	40x),
--Site 2, 17, Jul, 2014, sus1b
-	(10x
-	20x
-	40x),
--Site 2, 17, Jul, 2014, sus1c
-	(10x
-	20x
-	40x),
--Site 6, 17, Jul, 2014, sus1a
-	(10x
-	20x
-	40x),
--Site 6, 17, Jul, 2014, sus1b
-	(10x
-	20x
-	40x),
--Site 6, 17, Jul, 2014, sus1c
-	(10x
-	20x
-	40x),
--Site 6, 17, Jul, 2014, sus2a
-	(10x
-	20x
-	40x),
--Site 6, 17, Jul, 2014, sus2b
-	(10x
-	20x
-	40x),
+- Site 1, 17, Jul, 2014, sus1a
+	- 10x
+	- 20x
+	- 40x
+- Site 2, 17, Jul, 2014, sus1a
+	- 10x
+	- 20x
+	- 40x
+- Site 2, 17, Jul, 2014, sus1b
+	- 10x
+	- 20x
+	- 40x
+- Site 2, 17, Jul, 2014, sus1c
+	- 10x
+	- 20x
+	- 40x
+- Site 6, 17, Jul, 2014, sus1a
+	- 10x
+	- 20x
+	- 40x
+- Site 6, 17, Jul, 2014, sus1b
+	- 10x
+	- 20x
+	- 40x
+- Site 6, 17, Jul, 2014, sus1c
+	- 10x
+	- 20x
+	- 40x
+- Site 6, 17, Jul, 2014, sus2a
+	- 10x
+	- 20x
+	- 40x
+- Site 6, 17, Jul, 2014, sus2b
+	- 10x
+	- 20x
+	- 40x
 -Site 6, 17, Jul, 2014, sus2c
-	(10x
-	20x
-	40x).
+	- 10x
+	- 20x
+	- 40x
 
 
 
