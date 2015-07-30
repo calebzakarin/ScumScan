@@ -92,5 +92,7 @@ to re-scan: 2_f_2a_17_jul_2014
 
 Images of scanned samples can be found on flickr at the url: https://www.flickr.com/photos/134053962@N08/
 
-== to do ==
+#to do
+
+
 File references are made in absolute file paths on Max's hard drive. Ideally these should be relative file paths.
