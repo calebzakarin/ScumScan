@@ -1,0 +1,50 @@
+//This macro allows you to draw boxes and output to a CSV file their locations, along with 
+//other metadata from the ScumScan project. To install the macro, go to 'Plugins > Macros > 
+//Install...'.  Now you will have 3 extra buttons on the toolbar. Begin by right clicking on 
+//the blue circle, and filling in the metadata for the image. If you need it, the blue circle 
+//with a small dot inside will right the header Now, highlight part of the image that contains 
+//an observation, and click the blue circle to log the location. When you are finished with a 
+//set of images, hit the green '+' to save all of the rows that appear in imagej's log.  To 
+//clear the log, secel all the entries and hit the backspace key.
+
+var siteID = "1";
+var measurementType = "1";
+var storageType = "f"
+var year = "2014";
+var month = "07";
+var day = "17";
+var magnification = "10x";
+var n = "1"
+var url = "";
+
+macro "RecordCoordinates Action Tool - C00cO11cc" {
+   url = getDirectory("image") + getTitle();
+   getSelectionBounds(x, y, width, height);
+//   print(x + "," + y + "," + width + "," + height)
+   print (","+siteID + "," + measurementType + "," + storageType + "," + year + "," + month + "," + day + "," + magnification + "," + toString(x) + "," + toString(x+width) + "," + toString(y) + "," + toString(y+height)+ "," + n + "," + "," + "," + "," + ","+url);
+   
+}
+
+macro "RecordCoordinates Action Tool Options" {
+   siteID = getString("siteID: ", siteID);
+   measurementType = getString("measurementType: ", measurementType);
+   storageType = getString("storageType: ",storageType);
+   year = getString("year: ",year);
+   month = getString("month: ",month);
+   day = getString("day: ",day);
+   magnification = getString("magnification: ",magnification);
+   n = getString("n: ",n);
+}
+
+macro "RecordCoordinates First Action Tool - C00cO11ccL5959" {
+   getSelectionBounds(x, y, width, height);
+//   print("x_min,x_max,y_min,y_max")
+   print("id,siteID,measurementType,storageType,year,month,day,magnification,x_min,x_max,y_min,y_max,n,order,phylum,genus,spp,url");
+}
+
+macro "Write To CSV Action Tool - C0a0L18f8L818f" {
+   dir = getDirectory("choose where to save");
+   selectWindow("Log")
+   saveAs("txt", dir + "ff.csv");
+}
+
