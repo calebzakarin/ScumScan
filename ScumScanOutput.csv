@@ -1,0 +1,503 @@
+,siteID,measurementType,storageType,year,month,day,magnification,n,order,phylum,genus,spp,url,idNum
+0,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_00.bmp,2
+1,1,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_01.bmp,2
+2,1,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_3_01.bmp,3
+3,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_02.bmp,2
+4,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_3_02.bmp,3
+5,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_03.bmp,2
+6,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_05.bmp,2
+7,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_3_05.bmp,3
+8,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_06.bmp,2
+9,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_07.bmp,2
+10,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_3_07.bmp,3
+11,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_08.bmp,2
+12,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_2_09.bmp,2
+13,1,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_10x_3_09.bmp,3
+14,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_2_01.bmp,2
+15,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_02.bmp,3
+16,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_2_03.bmp,2
+17,1,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_2_04.bmp,2
+18,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_04.bmp,3
+19,1,sus1a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_4_04.bmp,4
+20,1,sus1a,f,2014,7,17,20x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_05.bmp,3
+21,1,sus1a,f,2014,7,17,20x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_2_06.bmp,2
+22,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_06.bmp,3
+23,1,sus1a,f,2014,7,17,20x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_08.bmp,3
+24,1,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_2_09.bmp,2
+25,1,sus1a,f,2014,7,17,20x,4,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_09.bmp,3
+26,1,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_20x_3_00.bmp,3
+27,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_01.bmp,3
+28,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_02.bmp,3
+29,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_2_03.bmp,2
+30,1,sus1a,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_04.bmp,3
+31,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_05.bmp,3
+32,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_06.bmp,3
+33,1,sus1a,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_07.bmp,3
+34,1,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_08.bmp,3
+35,1,sus1a,f,2014,7,17,40x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/1_sus1a_2014_7_17_40x_3_09.bmp,3
+36,2,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_4_00.bmp,4
+37,2,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_4_01.bmp,4
+38,2,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_4_02.bmp,4
+39,2,sus1a,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_3_03.bmp,3
+40,2,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Desmids,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_5_03.bmp,5
+41,2,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_4_07.bmp,4
+42,2,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_3_08.bmp,3
+43,2,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_10x_3_09.bmp,3
+44,2,sus1a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_4_00.bmp,4
+45,2,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_3_01.bmp,3
+46,2,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_6_01.bmp,6
+47,2,sus1a,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_8_02.bmp,8
+48,2,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_3_04.bmp,3
+49,2,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_6_04.bmp,6
+50,2,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_2_05.bmp,2
+51,2,sus1a,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_8_05.bmp,8
+52,2,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_6_06.bmp,6
+53,2,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_3_08.bmp,3
+54,2,sus1a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_4_09.bmp,4
+55,2,sus1a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_20x_4_10.bmp,4
+56,2,sus1a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_4_00.bmp,4
+57,2,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_6_01.bmp,6
+58,2,sus1a,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_8_02.bmp,8
+59,2,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_3_05.bmp,3
+60,2,sus1a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_4_05.bmp,4
+61,2,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_2_06.bmp,2
+62,2,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_3_07.bmp,3
+63,2,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_6_08.bmp,6
+64,2,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_3_09.bmp,3
+65,2,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1a_2014_7_17_40x_3_10.bmp,3
+66,2,sus1b,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_4_00.bmp,4
+67,2,sus1b,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_3_01.bmp,3
+68,2,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,"Green algae (with flagella, small)",/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_1_02.bmp,1
+69,2,sus1b,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_4_02.bmp,4
+70,2,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_6_02.bmp,6
+71,2,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_3_03.bmp,3
+72,2,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_6_03.bmp,6
+73,2,sus1b,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_3_04.bmp,3
+74,2,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_2_05.bmp,2
+75,2,sus1b,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_6_05.bmp,6
+76,2,sus1b,f,2014,7,17,10x,4,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_3_08.bmp,3
+77,2,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_10x_2_09.bmp,2
+78,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_3_00.bmp,3
+79,2,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_2_01.bmp,2
+80,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_3_01.bmp,3
+81,2,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_2_02.bmp,2
+82,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_3_02.bmp,3
+83,2,sus1b,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_6_02.bmp,6
+84,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_3_05.bmp,3
+85,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_2_06.bmp,2
+86,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_2_07.bmp,2
+87,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_3_07.bmp,3
+88,2,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_20x_2_08.bmp,2
+89,2,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_6_00.bmp,6
+90,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_2_01.bmp,2
+91,2,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_6_01.bmp,6
+92,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_3_02.bmp,3
+93,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_2_03.bmp,2
+94,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_3_06.bmp,3
+95,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_2_07.bmp,2
+96,2,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_2_08.bmp,2
+97,2,sus1b,f,2014,7,17,40x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/2_sus1b_2014_7_17_40x_10_09.bmp,10
+98,2,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_6_00.bmp,6
+99,2,sus1c,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_01.bmp,2
+100,2,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,"Green algae (with flagella, small)",/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_1_02.bmp,1
+101,2,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_3_02.bmp,3
+102,2,sus1c,f,2014,7,17,10x,2,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_4_03.bmp,4
+103,2,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_04.bmp,2
+104,2,sus1c,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_9_04.bmp,9
+105,2,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_6_05.bmp,6
+106,2,sus1c,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_9_05.bmp,9
+107,2,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_06.bmp,2
+108,2,sus1c,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_4_06.bmp,4
+109,2,sus1c,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_07.bmp,2
+110,2,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_6_07.bmp,6
+111,2,sus1c,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_08.bmp,2
+112,2,sus1c,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_4_08.bmp,4
+113,2,sus1c,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_9_08.bmp,9
+114,2,sus1c,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_2_09.bmp,2
+115,2,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_10x_3_09.bmp,3
+116,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_2_09.bmp,2
+117,2,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_6_09.bmp,6
+118,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_2_00.bmp,2
+119,2,sus1c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_3_00.bmp,3
+120,2,sus1c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_2_01.bmp,2
+121,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_2_02.bmp,2
+122,2,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_6_02.bmp,6
+123,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_3_03.bmp,3
+124,2,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_4_04.bmp,4
+125,2,sus1c,f,2014,7,17,20x,2,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_4_06.bmp,4
+126,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_2_05.bmp,2
+127,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_3_05.bmp,3
+128,2,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_4_05.bmp,4
+129,2,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Desmids,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_5_05.bmp,5
+130,2,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_4_07.bmp,4
+131,2,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_3_08.bmp,3
+132,2,sus1c,f,2014,7,17,20x,2,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_20x_9_08.bmp,9
+133,2,sus1c,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_2_08.bmp,2
+134,2,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_3_00.bmp,3
+135,2,sus1c,f,2014,7,17,40x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_9_00.bmp,9
+136,2,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_3_02.bmp,3
+137,2,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_2_03.bmp,2
+138,2,sus1c,f,2014,7,17,40x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_9_03.bmp,9
+139,2,sus1c,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_4_05.bmp,4
+140,2,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/2_sus1c_2014_7_17_40x_3_06.bmp,3
+141,6,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_2_00.bmp,2
+142,6,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_3_00.bmp,3
+143,6,sus1a,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_6_00.bmp,6
+144,6,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_4_02.bmp,4
+145,6,sus1a,f,2014,7,17,10x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_10_03.bmp,10
+146,6,sus1a,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_3_04.bmp,3
+147,6,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_4_04.bmp,4
+148,6,sus1a,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_6_05.bmp,6
+149,6,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_3_06.bmp,3
+150,6,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_2_07.bmp,2
+151,6,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_3_07.bmp,3
+152,6,sus1a,f,2014,7,17,10x,5,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_2_08.bmp,2
+153,6,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_3_01.bmp,3
+154,6,sus1a,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_2_09.bmp,2
+155,6,sus1a,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_10x_9_09.bmp,9
+156,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_00.bmp,3
+157,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_01.bmp,3
+158,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_02.bmp,3
+159,6,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_6_02.bmp,6
+160,6,sus1a,f,2014,7,17,20x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_10_02.bmp,10
+161,6,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_2_03.bmp,2
+162,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_03.bmp,3
+163,6,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_6_03.bmp,6
+164,6,sus1a,f,2014,7,17,20x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_2_04.bmp,2
+165,6,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_2_05.bmp,2
+166,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_05.bmp,3
+167,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_2_06.bmp,2
+168,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_06.bmp,3
+169,6,sus1a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_4_07.bmp,4
+170,6,sus1a,f,2014,7,17,20x,2,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_9_07.bmp,9
+171,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_2_08.bmp,2
+172,6,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_6_08.bmp,6
+173,6,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_3_09.bmp,3
+174,6,sus1a,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_8_09.bmp,8
+175,6,sus1a,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_20x_9_09.bmp,9
+176,6,sus1a,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_8_00.bmp,8
+177,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_3_01.bmp,3
+178,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_3_02.bmp,3
+179,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_2_03.bmp,2
+180,6,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_6_03.bmp,6
+181,6,sus1a,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_3_04.bmp,3
+182,6,sus1a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_4_05.bmp,4
+183,6,sus1a,f,2014,7,17,40x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_9_05.bmp,9
+184,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_3_06.bmp,3
+185,6,sus1a,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_8_07.bmp,8
+186,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_3_08.bmp,3
+187,6,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1a_2014_7_17_40x_2_09.bmp,2
+188,6,sus1b,f,2014,7,17,10x,4,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_09.bmp,2
+189,6,sus1b,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_00.bmp,2
+190,6,sus1b,f,2014,7,17,10x,4,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_01.bmp,2
+191,6,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_3_01.bmp,3
+192,6,sus1b,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_9_01.bmp,9
+193,6,sus1b,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_4_02.bmp,4
+194,6,sus1b,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_03.bmp,2
+195,6,sus1b,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_3_04.bmp,3
+196,6,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_05.bmp,2
+197,6,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_06.bmp,2
+198,6,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_6_06.bmp,6
+199,6,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_2_07.bmp,2
+200,6,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_10x_3_08.bmp,3
+201,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_09.bmp,3
+202,6,sus1b,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_6_09.bmp,6
+203,6,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_2_00.bmp,2
+204,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_00.bmp,3
+205,6,sus1b,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_6_00.bmp,6
+206,6,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_2_01.bmp,2
+207,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_01.bmp,3
+208,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_02.bmp,3
+209,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_2_03.bmp,2
+210,6,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_03.bmp,3
+211,6,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_2_04.bmp,2
+212,6,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_2_05.bmp,2
+213,6,sus1b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_3_06.bmp,3
+214,6,sus1b,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_4_07.bmp,4
+215,6,sus1b,f,2014,7,17,20x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_20x_10_08.bmp,10
+216,6,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_6_09.bmp,6
+217,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_3_00.bmp,3
+218,6,sus1b,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_4_01.bmp,4
+219,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_3_02.bmp,3
+220,6,sus1b,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_4_03.bmp,4
+221,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_3_04.bmp,3
+222,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_2_05.bmp,2
+223,6,sus1b,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_4_06.bmp,4
+224,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_2_07.bmp,2
+225,6,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1b_2014_7_17_40x_3_08.bmp,3
+226,6,sus1c,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_2_09.bmp,2
+227,6,sus1c,f,2014,7,17,10x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_10_09.bmp,10
+228,6,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_00.bmp,6
+229,6,sus1c,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_01.bmp,6
+230,6,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_2_02.bmp,2
+231,6,sus1c,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_02.bmp,6
+232,6,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_3_03.bmp,3
+233,6,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_03.bmp,6
+234,6,sus1c,f,2014,7,17,10x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_8_03.bmp,8
+235,6,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_04.bmp,6
+236,6,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_2_05.bmp,2
+237,6,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_2_06.bmp,2
+238,6,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_6_06.bmp,6
+239,6,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_2_07.bmp,2
+240,6,sus1c,f,2014,7,17,10x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_8_07.bmp,8
+241,6,sus1c,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_3_08.bmp,3
+242,6,sus1c,f,2014,7,17,10x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_10x_8_08.bmp,8
+243,6,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_6_00.bmp,6
+244,6,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_3_01.bmp,3
+245,6,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_6_01.bmp,6
+246,6,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_3_02.bmp,3
+247,6,sus1c,f,2014,7,17,20x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_10_02.bmp,10
+248,6,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_2_03.bmp,2
+249,6,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_3_04.bmp,3
+250,6,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_6_04.bmp,6
+251,6,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_4_05.bmp,4
+252,6,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_6_05.bmp,6
+253,6,sus1c,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_9_05.bmp,9
+254,6,sus1c,f,2014,7,17,20x,4,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_2_08.bmp,2
+255,6,sus1c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_3_08.bmp,3
+256,6,sus1c,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_4_08.bmp,4
+257,6,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_6_08.bmp,6
+258,6,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_3_09.bmp,3
+259,6,sus1c,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_20x_9_09.bmp,9
+260,6,sus1c,f,2014,7,17,40x,3,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_6_00.bmp,6
+261,6,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_6_01.bmp,6
+262,6,sus1c,f,2014,7,17,40x,3,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_9_02.bmp,9
+263,6,sus1c,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_2_03.bmp,2
+264,6,sus1c,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_4_04.bmp,4
+265,6,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_6_04.bmp,6
+266,6,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_8_05.bmp,8
+267,6,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_6_06.bmp,6
+268,6,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_8_07.bmp,8
+269,6,sus1c,f,2014,7,17,40x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_9_07.bmp,9
+270,6,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_3_08.bmp,3
+271,6,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_2_09.bmp,2
+272,6,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_6_09.bmp,6
+273,6,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus1c_2014_7_17_40x_3_10.bmp,3
+274,6,sus2a,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_6_09.bmp,6
+275,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_2_00.bmp,2
+276,6,sus2a,f,2014,7,17,10x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_10_02.bmp,10
+277,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_2_03.bmp,2
+278,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_3_04.bmp,3
+279,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_2_05.bmp,2
+280,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_2_06.bmp,2
+281,6,sus2a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_4_07.bmp,4
+282,6,sus2a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_10x_3_08.bmp,3
+283,6,sus2a,f,2014,7,17,20x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_10_00.bmp,10
+284,6,sus2a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_3_01.bmp,3
+285,6,sus2a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_2_02.bmp,2
+286,6,sus2a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_2_03.bmp,2
+287,6,sus2a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_4_04.bmp,4
+288,6,sus2a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_6_05.bmp,6
+289,6,sus2a,f,2014,7,17,20x,4,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_3_06.bmp,3
+290,6,sus2a,f,2014,7,17,20x,2,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_4_07.bmp,4
+291,6,sus2a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_2_08.bmp,2
+292,6,sus2a,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_4_08.bmp,4
+293,6,sus2a,f,2014,7,17,20x,3,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_20x_6_09.bmp,6
+294,6,sus2a,f,2014,7,17,40x,1,null,Chlorophyceae,null,"Green algae (with flagella, small)",/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_1_09.bmp,1
+295,6,sus2a,f,2014,7,17,40x,1,null,Dinoflagellate,null,Dinoflagellates,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_10_00.bmp,10
+296,6,sus2a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_2_01.bmp,2
+297,6,sus2a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_4_03.bmp,4
+298,6,sus2a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_4_04.bmp,4
+299,6,sus2a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_6_05.bmp,6
+300,6,sus2a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_3_06.bmp,3
+301,6,sus2a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_6_06.bmp,6
+302,6,sus2a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_2_07.bmp,2
+303,6,sus2a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/6_sus2a_2014_7_17_40x_6_08.bmp,6
+304,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_3_00.bmp,3
+305,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_2_01.bmp,2
+306,6,sus2b,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_4_02.bmp,4
+307,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_3_05.bmp,3
+308,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_2_06.bmp,2
+309,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_3_06.bmp,3
+310,6,sus2b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_10x_3_08.bmp,3
+311,6,sus2b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_3_00.bmp,3
+312,6,sus2b,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_4_02.bmp,4
+313,6,sus2b,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_2_03.bmp,2
+314,6,sus2b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_2_05.bmp,2
+315,6,sus2b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_2_07.bmp,2
+316,6,sus2b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_2_08.bmp,2
+317,6,sus2b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_20x_3_09.bmp,3
+318,6,sus2b,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_3_00.bmp,3
+319,6,sus2b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_3_02.bmp,3
+320,6,sus2b,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_2_03.bmp,2
+321,6,sus2b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_2_04.bmp,2
+322,6,sus2b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_2_05.bmp,2
+323,6,sus2b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2b_2014_7_17_40x_3_07.bmp,3
+324,6,sus2c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_3_02.bmp,3
+325,6,sus2c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_3_03.bmp,3
+326,6,sus2c,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_3_04.bmp,3
+327,6,sus2c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_2_06.bmp,2
+328,6,sus2c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_3_06.bmp,3
+329,6,sus2c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_10x_2_09.bmp,2
+330,6,sus2c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_3_09.bmp,3
+331,6,sus2c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_3_01.bmp,3
+332,6,sus2c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_2_02.bmp,2
+333,6,sus2c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_3_03.bmp,3
+334,6,sus2c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_2_05.bmp,2
+335,6,sus2c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_3_06.bmp,3
+336,6,sus2c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_20x_3_08.bmp,3
+337,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_3_01.bmp,3
+338,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_3_02.bmp,3
+339,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_3_03.bmp,3
+340,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_3_04.bmp,3
+341,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_2_06.bmp,2
+342,6,sus2c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/6_sus2c_2014_7_17_40x_2_08.bmp,2
+343,7,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_2_00.bmp,2
+344,7,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_3_00.bmp,3
+345,7,sus1a,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_00.bmp,6
+346,7,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_4_01.bmp,4
+347,7,sus1a,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_01.bmp,6
+348,7,sus1a,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_3_02.bmp,3
+349,7,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_4_02.bmp,4
+350,7,sus1a,f,2014,7,17,10x,3,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_02.bmp,6
+351,7,sus1a,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_03.bmp,6
+352,7,sus1a,f,2014,7,17,10x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_8_03.bmp,8
+353,7,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_4_04.bmp,4
+354,7,sus1a,f,2014,7,17,10x,3,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_04.bmp,6
+355,7,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_2_05.bmp,2
+356,7,sus1a,f,2014,7,17,10x,4,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_3_05.bmp,3
+357,7,sus1a,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_05.bmp,6
+358,7,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_2_06.bmp,2
+359,7,sus1a,f,2014,7,17,10x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_3_06.bmp,3
+360,7,sus1a,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_4_06.bmp,4
+361,7,sus1a,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_06.bmp,6
+362,7,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_2_07.bmp,2
+363,7,sus1a,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_07.bmp,6
+364,7,sus1a,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_6_08.bmp,6
+365,7,sus1a,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_10x_3_09.bmp,3
+366,7,sus1a,f,2014,7,17,20x,4,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_00.bmp,3
+367,7,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_00.bmp,6
+368,7,sus1a,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_9_00.bmp,9
+369,7,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_2_01.bmp,2
+370,7,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_01.bmp,3
+371,7,sus1a,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_01.bmp,6
+372,7,sus1a,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_8_01.bmp,8
+373,7,sus1a,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_9_01.bmp,9
+374,7,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_02.bmp,6
+375,7,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_03.bmp,3
+376,7,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_04.bmp,6
+377,7,sus1a,f,2014,7,17,20x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_05.bmp,3
+378,7,sus1a,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_05.bmp,6
+379,7,sus1a,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_06.bmp,6
+380,7,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_07.bmp,3
+381,7,sus1a,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_08.bmp,3
+382,7,sus1a,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_3_09.bmp,3
+383,7,sus1a,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_20x_6_09.bmp,6
+384,7,sus1a,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_4_09.bmp,4
+385,7,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_6_09.bmp,6
+386,7,sus1a,f,2014,7,17,40x,3,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_9_09.bmp,9
+387,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_00.bmp,3
+388,7,sus1a,f,2014,7,17,40x,3,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_9_01.bmp,9
+389,7,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_6_02.bmp,6
+390,7,sus1a,f,2014,7,17,40x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_9_02.bmp,9
+391,7,sus1a,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_03.bmp,3
+392,7,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_6_03.bmp,6
+393,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_05.bmp,3
+394,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_06.bmp,3
+395,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_2_07.bmp,2
+396,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_07.bmp,3
+397,7,sus1a,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_6_07.bmp,6
+398,7,sus1a,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_3_08.bmp,3
+399,7,sus1a,f,2014,7,17,40x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1a_2014_7_17_40x_6_08.bmp,6
+400,7,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_2_00.bmp,2
+401,7,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_3_00.bmp,3
+402,7,sus1b,f,2014,7,17,10x,5,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_00.bmp,6
+403,7,sus1b,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_01.bmp,6
+404,7,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_02.bmp,6
+405,7,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_3_03.bmp,3
+406,7,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_03.bmp,6
+407,7,sus1b,f,2014,7,17,10x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_8_03.bmp,8
+408,7,sus1b,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_3_04.bmp,3
+409,7,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_2_05.bmp,2
+410,7,sus1b,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_3_06.bmp,3
+411,7,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_06.bmp,6
+412,7,sus1b,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_07.bmp,6
+413,7,sus1b,f,2014,7,17,10x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_9_07.bmp,9
+414,7,sus1b,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_6_08.bmp,6
+415,7,sus1b,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_10x_4_10.bmp,4
+416,7,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_3_00.bmp,3
+417,7,sus1b,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_6_01.bmp,6
+418,7,sus1b,f,2014,7,17,20x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_4_02.bmp,4
+419,7,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_2_03.bmp,2
+420,7,sus1b,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_6_03.bmp,6
+421,7,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_3_04.bmp,3
+422,7,sus1b,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_6_04.bmp,6
+423,7,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_3_05.bmp,3
+424,7,sus1b,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_6_05.bmp,6
+425,7,sus1b,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_8_05.bmp,8
+426,7,sus1b,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_8_06.bmp,8
+427,7,sus1b,f,2014,7,17,20x,1,null,null,null,Blue-green algae (cyanobacteria),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_9_06.bmp,9
+428,7,sus1b,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_3_08.bmp,3
+429,7,sus1b,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_20x_6_09.bmp,6
+430,7,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_6_00.bmp,6
+431,7,sus1b,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_3_01.bmp,3
+432,7,sus1b,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_8_01.bmp,8
+433,7,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_2_02.bmp,2
+434,7,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_6_02.bmp,6
+435,7,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_2_03.bmp,2
+436,7,sus1b,f,2014,7,17,40x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_3_03.bmp,3
+437,7,sus1b,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_8_03.bmp,8
+438,7,sus1b,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_3_04.bmp,3
+439,7,sus1b,f,2014,7,17,40x,3,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_3_05.bmp,3
+440,7,sus1b,f,2014,7,17,40x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_8_05.bmp,8
+441,7,sus1b,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_4_06.bmp,4
+442,7,sus1b,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_6_06.bmp,6
+443,7,sus1b,f,2014,7,17,40x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1b_2014_7_17_40x_4_07.bmp,4
+444,7,sus1c,f,2014,7,17,10x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_3_00.bmp,3
+445,7,sus1c,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_00.bmp,6
+446,7,sus1c,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_01.bmp,6
+447,7,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_2_02.bmp,2
+448,7,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_03.bmp,6
+449,7,sus1c,f,2014,7,17,10x,1,Amoebina,Sacrodina,null,Amoeba,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_7_03.bmp,7
+450,7,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_3_04.bmp,3
+451,7,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_04.bmp,6
+452,7,sus1c,f,2014,7,17,10x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_8_04.bmp,8
+453,7,sus1c,f,2014,7,17,10x,1,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_4_05.bmp,4
+454,7,sus1c,f,2014,7,17,10x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_05.bmp,6
+455,7,sus1c,f,2014,7,17,10x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_3_06.bmp,3
+456,7,sus1c,f,2014,7,17,10x,3,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_06.bmp,6
+457,7,sus1c,f,2014,7,17,10x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_8_06.bmp,8
+458,7,sus1c,f,2014,7,17,10x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_07.bmp,6
+459,7,sus1c,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_08.bmp,6
+460,7,sus1c,f,2014,7,17,10x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_10x_6_09.bmp,6
+461,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_00.bmp,3
+462,7,sus1c,f,2014,7,17,20x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_8_00.bmp,8
+463,7,sus1c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_01.bmp,3
+464,7,sus1c,f,2014,7,17,20x,4,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_01.bmp,6
+465,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_2_02.bmp,2
+466,7,sus1c,f,2014,7,17,20x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_02.bmp,3
+467,7,sus1c,f,2014,7,17,20x,2,null,Gamophyceae,null,Filamentous green algae,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_4_02.bmp,4
+468,7,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_02.bmp,6
+469,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_2_03.bmp,2
+470,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_03.bmp,3
+471,7,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_03.bmp,6
+472,7,sus1c,f,2014,7,17,20x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_8_03.bmp,8
+473,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_04.bmp,3
+474,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_05.bmp,3
+475,7,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_05.bmp,6
+476,7,sus1c,f,2014,7,17,20x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_8_05.bmp,8
+477,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (with flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_2_06.bmp,2
+478,7,sus1c,f,2014,7,17,20x,2,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_07.bmp,6
+479,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_08.bmp,3
+480,7,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_08.bmp,6
+481,7,sus1c,f,2014,7,17,20x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_3_09.bmp,3
+482,7,sus1c,f,2014,7,17,20x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_20x_6_09.bmp,6
+483,7,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_6_00.bmp,6
+484,7,sus1c,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_3_01.bmp,3
+485,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_01.bmp,8
+486,7,sus1c,f,2014,7,17,40x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_02.bmp,8
+487,7,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_6_03.bmp,6
+488,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_03.bmp,8
+489,7,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_3_04.bmp,3
+490,7,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_6_04.bmp,6
+491,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_04.bmp,8
+492,7,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_6_05.bmp,6
+493,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_05.bmp,8
+494,7,sus1c,f,2014,7,17,40x,1,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_3_06.bmp,3
+495,7,sus1c,f,2014,7,17,40x,2,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_06.bmp,8
+496,7,sus1c,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_3_07.bmp,3
+497,7,sus1c,f,2014,7,17,40x,1,null,Bacillariophyceae,null,Diatoms,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_6_07.bmp,6
+498,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_07.bmp,8
+499,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_08.bmp,8
+500,7,sus1c,f,2014,7,17,40x,2,null,Chlorophyceae,null,Green algae (no flagella),/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_3_09.bmp,3
+501,7,sus1c,f,2014,7,17,40x,1,Heliozoea,Sacrodina,null,Heliozoans,/Users/maxcaplow/Desktop/images/7_sus1c_2014_7_17_40x_8_09.bmp,8
