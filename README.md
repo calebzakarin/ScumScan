@@ -95,4 +95,5 @@ Images of scanned samples can be found on flickr at the url: https://www.flickr.
 #to do
 
 
-File references are made in absolute file paths on Max's hard drive. Ideally these should be relative file paths.
+- File references are made in absolute file paths on Max's hard drive. Ideally these should be relative file paths.
+- Upload to inaturalist.
